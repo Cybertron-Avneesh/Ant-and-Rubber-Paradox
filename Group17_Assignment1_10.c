@@ -1,10 +1,3 @@
-/*GROUP ASSIGNMENT-GROUP_17-QUESTION_10*/
-//--------- GROUP MEMBERS----------------
-//--1. AVNEESH KUMAR  IIB2019010---------
-//--2. SHUBHANG SINGH IIB2019011---------
-//--3. AKSHAY ANSHUL  IIB2019015---------
-//--4. ADITYA RAJ     IIB2019023---------
-
 
 #include<stdio.h>
 #include<conio.h>
